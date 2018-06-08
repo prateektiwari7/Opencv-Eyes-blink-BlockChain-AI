@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1lzXTNebqOir21s-jWMxph2SxyS9Jm85M/view?usp=shari
 
 then the commands are as like 
 
-y $ workon cv
+ $ workon cv
 (cv) /Desktop/Opencv-Eyes-blink-BlockChain_AI $ python json_io.py 
  * Serving Flask app "json_io" (lazy loading)
  * Environment: production
@@ -31,9 +31,7 @@ Run the new cmd and type
 
 [INFO] loading facial landmark predictor...
 [INFO] starting video stream thread...
-(cv)  ~/Documents/hacthron-face-detection/facial-landmarks $ 
 
-
-you will see screen like as 
+(cv)  ~/Documents/hacthron-face-detection/facial-landmarks
 
 
